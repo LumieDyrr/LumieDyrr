@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adha Alfaridzi</h1>
-<h3 align="center">A passionate Backend Developer from Indonesia</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 👯 I’m looking to collaborate on [Pt biru langit gemilang](https://www.gemilangservice.com/)
 
 - 👨‍💻 All of my projects are available at [https://website-portofolio-dev.vercel.app/](https://website-portofolio-dev.vercel.app/)
 
 - 📫 How to reach me **muhammad.adha0071@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15M40MSMsO-swcLnzHzjRQyITb8AgmUWb/view?usp=drivesdk](https://drive.google.com/file/d/15M40MSMsO-swcLnzHzjRQyITb8AgmUWb/view?usp=drivesdk)
+
+- ⚡ Fun fact **I think I handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
